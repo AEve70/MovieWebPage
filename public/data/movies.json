@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "description": "Paul Atreides se une a los Fremen para vengar la conspiración que destruyó a su familia y asegurar el destino de Arrakis.",
+    "genre": "Ciencia ficción",
+    "rating": 8.6,
+    "duration": 166,
+    "director": "Denis Villeneuve",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2024/09/Mondodune8.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "description": "La historia de J. Robert Oppenheimer y su papel en el desarrollo de la bomba atómica durante la Segunda Guerra Mundial.",
+    "genre": "Biografía",
+    "rating": 8.9,
+    "duration": 180,
+    "director": "Christopher Nolan",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2023/06/Oppenheimer3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Barbie",
+    "year": 2023,
+    "description": "Barbie y Ken exploran el mundo real después de dejar Barbieland, enfrentando desafíos y descubriendo nuevas perspectivas.",
+    "genre": "Comedia",
+    "rating": 7.0,
+    "duration": 114,
+    "director": "Greta Gerwig",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2024/01/Barbie8.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Poor Things",
+    "year": 2023,
+    "description": "Bella Baxter, una joven revivida por un científico, explora el mundo con curiosidad y libertad en una historia surrealista.",
+    "genre": "Drama",
+    "rating": 8.2,
+    "duration": 141,
+    "director": "Yorgos Lanthimos",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2023/09/Poorthings1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Killers of the Flower Moon",
+    "year": 2023,
+    "description": "Basada en hechos reales, narra los asesinatos de miembros de la Nación Osage en los años 1920 y la investigación del FBI.",
+    "genre": "Crimen",
+    "rating": 8.0,
+    "duration": 206,
+    "director": "Martin Scorsese",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2023/11/Killersoftheflowermoon4.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Marvels",
+    "year": 2023,
+    "description": "Carol Danvers, Kamala Khan y Monica Rambeau unen fuerzas para enfrentar una amenaza cósmica que pone en peligro el universo.",
+    "genre": "Acción",
+    "rating": 6.2,
+    "duration": 105,
+    "director": "Nia DaCosta",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2023/04/Marvels1.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Napoleon",
+    "year": 2023,
+    "description": "La vida de Napoleón Bonaparte, desde sus orígenes hasta su ascenso como emperador de Francia.",
+    "genre": "Histórico",
+    "rating": 6.9,
+    "duration": 158,
+    "director": "Ridley Scott",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2023/11/Napoleon3.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Wonka",
+    "year": 2023,
+    "description": "La historia de los orígenes de Willy Wonka y cómo creó su famosa fábrica de chocolate.",
+    "genre": "Fantasía",
+    "rating": 7.2,
+    "duration": 116,
+    "director": "Paul King",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2024/01/Wonka2.jpg"
+  },
+  {
+    "id": 9,
+    "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+    "year": 2023,
+    "description": "La precuela de Los Juegos del Hambre, centrada en un joven Coriolanus Snow y su papel en los primeros juegos.",
+    "genre": "Aventura",
+    "rating": 7.1,
+    "duration": 157,
+    "director": "Francis Lawrence",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2023/11/Hungergames20231.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Inside Out 2",
+    "year": 2024,
+    "description": "Riley enfrenta nuevas emociones en su adolescencia, incluyendo Ansiedad, Envidia y Vergüenza, mientras su mundo interior se vuelve más complejo y desafiante.",
+    "genre": "Animación",
+    "rating": 7.8,
+    "duration": 96,
+    "director": "Kelsey Mann",
+    "posterUrl": "https://www.moviepostersgallery.com/wp-content/uploads/2024/01/Insideout21.jpg"
+  }
+]
