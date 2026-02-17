@@ -24,11 +24,16 @@ export default function MovieDetails() {
   }
 
   return (
-    <section className="mx-auto max-w-5xl px-6 py-12">
-      <article className="bg-white rounded-lg shadow-md border border-[#3CCFAF] p-8 flex flex-col md:flex-row gap-8">
+    <section 
+    data-cy="movie-details"
+    className=" movie-details mx-auto max-w-5xl px-6 py-12">
+      <article 
+      data-cy="details"
+      className="bg-white rounded-lg shadow-md border border-[#3CCFAF] p-8 flex flex-col md:flex-row gap-8">
         {/* Poster */}
         <div className="flex-shrink-0">
           <img
+            data-cy="movie-poster"
             src={movie.posterUrl}
             alt={movie.title}
             className="w-64 rounded-lg shadow-lg border border-[#4D8A8A]"
@@ -37,7 +42,9 @@ export default function MovieDetails() {
 
         {/* Info */}
         <div className="flex-1">
-          <h2 className="text-3xl font-bold text-[#4D8A8A] mb-2">
+          <h2 
+          data-cy="movie-title"
+          className="text-3xl font-bold text-[#4D8A8A] mb-2">
             {movie.title} <span className="text-gray-500">({movie.year})</span>
           </h2>
           <p className="text-gray-700 mb-4">{movie.description}</p>

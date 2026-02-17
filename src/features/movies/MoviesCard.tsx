@@ -3,8 +3,11 @@ import type { Movie } from "../../model/movie.model";
 
 export default function MoviesCard(props: Movie) {
   return (
-    <Link to={"/movies/" + props.id}>
-      <article className="bg-white rounded-lg shadow-md border border-[#3CCFAF] overflow-hidden hover:shadow-lg transition-shadow duration-300 w-64">
+    <Link to={
+      "/movies/" + props.id}>
+      <article
+        data-cy="movie-card"
+       className="bg-white rounded-lg shadow-md border border-[#3CCFAF] overflow-hidden hover:shadow-lg transition-shadow duration-300 w-64">
         {/* Poster */}
         <div className="h-96 overflow-hidden">
           <img
@@ -23,7 +26,8 @@ export default function MoviesCard(props: Movie) {
           </div>
 
           {/* Title */}
-          <h3 className="text-lg font-bold text-[#4D8A8A] mb-1 truncate">
+          <h3 cy-data="movie-title"
+          className="text-lg font-bold text-[#4D8A8A] mb-1 truncate">
             {props.title}
           </h3>
 
